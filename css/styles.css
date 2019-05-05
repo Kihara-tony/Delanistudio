@@ -30,3 +30,15 @@ h4{
 .design{
   display: none;
 }
+.development{
+  display: none;
+}
+.develop p{
+  padding-top: 10px;
+}
+.management{
+  display: none;
+}
+.manage p{
+  padding-top: 10px;
+}
