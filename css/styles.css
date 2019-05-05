@@ -1,0 +1,10 @@
+.header{
+  background-image:url("/home/moringa/Documents/Independentproject/img/background/unsplash_feet-stairs_850x480.jpg");
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 180px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
