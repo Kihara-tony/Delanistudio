@@ -23,3 +23,10 @@ header .mouse{
   background-repeat: no-repeat;
   background-size: cover;
 }
+h4{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.design{
+  display: none;
+}
