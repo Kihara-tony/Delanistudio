@@ -11,3 +11,15 @@
 header .mouse{
   margin-bottom:-150px;
 }
+.about{
+  text-align: center;
+}
+.services{
+  background-image:url("/home/moringa/Documents/Independentproject/img/background/s_image.jpg");
+  padding: 100px;
+  text-align: center;
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
