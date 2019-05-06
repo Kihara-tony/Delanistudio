@@ -8,11 +8,13 @@
   background-position: center;
   color: white;
 }
-header .mouse{
+.header .mouse{
   margin-bottom:-150px;
 }
 .about{
   text-align: center;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
 }
 .services{
   background-image:url("/home/moringa/Documents/Independentproject/img/background/s_image.jpg");
@@ -22,22 +24,34 @@ header .mouse{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
 }
 h4{
   text-align: center;
   padding-bottom: 20px;
+  font-family: 'Lalezar', cursive;
 }
 .design{
   display: none;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
+  text-align: center;
 }
 .development{
   display: none;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
+  text-align: center;
 }
 .develop p{
   padding-top: 10px;
 }
 .management{
   display: none;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
+  text-align: center;
 }
 .manage p{
   padding-top: 10px;
@@ -45,6 +59,7 @@ h4{
 .portfolio{
   margin-left: 40%;
   text-align: center;
+  font-family: 'Lalezar', cursive;
 }
 #center{
  padding-top: 20px;
@@ -62,7 +77,8 @@ h4{
   text-align: center;
   float: right;
   width: 100%;
-  height: 30%;
+  height: 40%;
+  font-family: 'Lalezar', cursive;
 }
 .contacts input{
   background:transparent;
@@ -72,10 +88,10 @@ h4{
 }
 .contacts .message{
   width: 350px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
 }
 .icon{
   margin-left: 30%;
-  margin-top: 70px;
+  margin-top: 30px;
   text-align: center;
 }

@@ -17,5 +17,5 @@ $(document).ready(function(){
   $("#submit").click(function(){
     var name =(document.getElementById("name").value);
     alert( name +" thank you for contacting us.we received your message. :-).");
-  })
+  });
 });
