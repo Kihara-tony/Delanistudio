@@ -1,5 +1,5 @@
 .header{
-  background-image:url("/home/moringa/Documents/Independentproject/img/background/unsplash_feet-stairs_850x480.jpg");
+  background-image:url("../img/background/unsplash_feet-stairs_850x480.jpg");
   text-align: center;
   padding-top: 200px;
   padding-bottom: 180px;
@@ -17,7 +17,7 @@
   font-size: 1.3em;
 }
 .services{
-  background-image:url("/home/moringa/Documents/Independentproject/img/background/s_image.jpg");
+  background-image:url("../img/background/s_image.jpg");
   padding: 100px;
   text-align: center;
   color: white;
@@ -68,7 +68,7 @@ h4{
  margin-left: 40%;
 }
 .contacts{
-  background-image:url("img/background/c_image.jpg");
+  background-image:url("../img/background/c_image.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
