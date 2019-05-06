@@ -68,7 +68,7 @@ h4{
  margin-left: 40%;
 }
 .contacts{
-  background-image:url("/home/moringa/Documents/Independentproject/img/background/c_image.jpg");
+  background-image:url("img/background/c_image.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
