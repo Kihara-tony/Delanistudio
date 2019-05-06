@@ -53,3 +53,4 @@ All rights opened to all @ 2019.
 Can be used by anyone who is in need of it anytime.
 
 TONY Kihara.
+# Delanistudio
