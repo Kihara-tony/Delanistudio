@@ -1,5 +1,5 @@
 .header{
-  background-image:url("../img/background/unsplash_feet-stairs_850x480.jpg");
+  background-image:url("https://github.com/Kihara-tony/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
   text-align: center;
   padding-top: 200px;
   padding-bottom: 180px;
@@ -19,7 +19,7 @@
   font-size: 1.3em;
 }
 .services{
-  background-image:url("../img/background/s_image.jpg");
+  background-image:url("https://github.com/Kihara-tony/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true");
   padding: 100px;
   text-align: center;
   color: white;
@@ -71,7 +71,7 @@ h4{
  margin-left: 40%;
 }
 .contacts{
-  background-image:url("../img/background/c_image.jpg");
+  background-image:url("https://github.com/Kihara-tony/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
