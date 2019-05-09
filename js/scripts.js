@@ -17,5 +17,9 @@ $(document).ready(function(){
   $("#submit").click(function(){
     var name =(document.getElementById("name").value);
     alert( name +" thank you for contacting us.we received your message. :-).");
+  })
+  //portifolio section
+  $(".card>img").hover(function () {
+    $(".sect-1").fadeToggle();
   });
 });
