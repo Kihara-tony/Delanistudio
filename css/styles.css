@@ -7,12 +7,16 @@
   background-size: cover;
   background-position: center;
   color: white;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
 }
-header .mouse{
-  margin-bottom:-150px;
+.header .mouse{
+  margin-bottom:-250px;
 }
 .about{
   text-align: center;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
 }
 .services{
   background-image:url("/home/moringa/Documents/Independentproject/img/background/s_image.jpg");
@@ -22,22 +26,36 @@ header .mouse{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
 }
 h4{
   text-align: center;
   padding-bottom: 20px;
+  font-family: 'Lalezar', cursive;
+  font-size: 1.3em;
 }
 .design{
   display: none;
+  font-family: 'Lalezar', cursive;
+  text-align: center;
+  font-size: 1.3em;
 }
 .development{
   display: none;
+  font-family: 'Lalezar', cursive;
+  text-align: center;
+  font-size: 1.3em;
 }
 .develop p{
   padding-top: 10px;
+
 }
 .management{
   display: none;
+  font-family: 'Lalezar', cursive;
+  text-align: center;
+  font-size: 1.3em;
 }
 .manage p{
   padding-top: 10px;
@@ -63,12 +81,14 @@ h4{
   float: right;
   width: 100%;
   height: 30%;
+  font-family: 'Lalezar', cursive;
 }
 .contacts input{
   background:transparent;
 }
 ::placeholder{
   color: white;
+  font-family: 'Lalezar', cursive;
 }
 .contacts .message{
   width: 350px;
@@ -79,14 +99,28 @@ h4{
   margin-top: 70px;
   text-align: center;
 }
-#see{
-  display: none;
-  z-index:100;
-  position:absolute;
-  color:white;
-  font-size:24px;
-  font-weight:bold;
-  left:150px;
-  top:350px;
-  opacity: 0.6;
+.card:hover img {
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+}
+.sect-1 {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    background: rgba(0, 0, 0, 0.582);
+    cursor: pointer;
+    display: none;
+    transition: all 0.5s ease;
+    color: white;
+    border: 2px solid white;
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 1.3;
+    font-weight: bold;
+}
+.card-deck{
+  padding-bottom: 20px;
+}
+#container{
+ margin-left: 10%;
 }

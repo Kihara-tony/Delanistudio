@@ -18,17 +18,8 @@ $(document).ready(function(){
     var name =(document.getElementById("name").value);
     alert( name +" thank you for contacting us.we received your message. :-).");
   })
+  //portifolio section
+  $(".card>img").hover(function () {
+    $(".sect-1").fadeToggle();
+  });
 });
-var hover = document.getElementById("image");
-hover.addEventListener("mouseover", func, false);
-hover.addEventListener("mouseout", func1, false);
-
-function func()
-{
-   document.getElementById("see").setAttribute("style", "display:block;")
-}
-
-function func1()
-{
-    document.getElementById("see").setAttribute("style", "display:none;")
-}
