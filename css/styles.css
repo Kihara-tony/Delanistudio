@@ -79,3 +79,14 @@ h4{
   margin-top: 70px;
   text-align: center;
 }
+.see{
+  display: none;
+  z-index:100;
+  position:absolute;
+  color:white;
+  font-size:24px;
+  font-weight:bold;
+  left:150px;
+  top:350px;
+  opacity: 0.6;
+}
