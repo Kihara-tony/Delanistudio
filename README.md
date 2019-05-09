@@ -32,13 +32,10 @@ To use the code of the website:
 ## BDD
 |Behavior| Input|Output|
 |:--------|:-------|:-------|
-~~~
 |Load page|enter url|Landing page|
-~~~
-|| click on images|Informage about images appear|
-~~~
+|Hover| click on images|Informage about images appear|
 |Enter name, email, message| Tony, tony@gmail.com, I need your service|Tony thank you for contacting us.we received your message|
-~~~
+
 
 -------------------------------------------------------------
 ## LIVE DEMO
