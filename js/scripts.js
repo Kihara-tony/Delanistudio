@@ -19,16 +19,16 @@ $(document).ready(function(){
     alert( name +" thank you for contacting us.we received your message. :-).");
   })
 });
-var item = document.getElementById("image");
-item.addEventListener("mouseover", func, false);
-item.addEventListener("mouseout", func1, false);
+var hover = document.getElementById("image");
+hover.addEventListener("mouseover", func, false);
+hover.addEventListener("mouseout", func1, false);
 
 function func()
 {
-   document.getElementById("text").setAttribute("style", "display:block;")
+   document.getElementById("see").setAttribute("style", "display:block;")
 }
 
 function func1()
 {
-    document.getElementById("text").setAttribute("style", "display:none;")
+    document.getElementById("see").setAttribute("style", "display:none;")
 }
