@@ -8,7 +8,7 @@
 -------------------------------------------------
 ## AUTHOR
 
-[Tony]("https://lh3.googleusercontent.com/uvIp0Z-E63gA6u7n_pt8V-LqyOZwSntHFA4Jdr-HR7f7GoaYociGY3b-JJzpnyIkQQPGKQfztGcAcj1LmHEvhXoqTryBxtHu48zESo61-hbi_s0HJLm94uewXDGQ8p0QhJs6BrrzMyrridkqG4rBroYtka3EB-FkXoiPOYSACtX2QC9cZ-fX0gpE8sql2x2zY8hbwMVJTm6MmQwgnbJtTFETa7r9YLYyW4mrOVPq4pMBfJd5mQjuE9AFJvYasKX98qOPtwIn3f_DzLBuKReT7wyAzKdzfyHuvN7v7r93WvcRSXEHrSi5q7cnFGoiocjPhnLm01XLM1SMuIKqUqVwKEBldRGqHbOvTYj47d3WnI18WazO4S-QaqUJ8bc4wwv6xvt7YyB59FFadyKOrWqH7lS-RqpskpQaOm_AF71jZUNilopG59WTQx--DVOh9bnFAFNCOb3_WbEprvcuhle6rssthWRnJUa6k4OAMxjFyiNuVVWbPRHRNXkeopPALYCm_pKvE5crcWBWkgqZKz4g3zz9GL1-4-xi07TKwpqqu9b-MJknlaJFX56RRIQVV8UYvG51dQkFTU9nZFBUt-ggp7UEz1ZC3FUTAP4X0FO3wNEWvObREhMvVdSt8lmQ02ZX5T5cIbexp6IrRUghP_KI4tbulZAtEQ=w182-h243-no")
+[Tony](https://lh3.googleusercontent.com/fqaJlDdAdKLw3b6i17whEVVW788i-4gmbOoastushwzfhwPdJyW_T3ufvuu2xlNtIBweTQ9SWsXxkElzbX8exLmtZqKlhUJNWIRQVko-Xatz0rAmpvKnOtuRuNqNCZKxKGWTJXXFOIhvsjg2KWC4n3-WDB-_CMOKdaLw9J7ZDYpdE4VznlYIK4rDKn7drvoDrzER2MyVNauTYbVETO1sEXy8a07vC3f1t_RmZwHYVfgsdVpN0ji1-7qsjSxAiBeTZ35jG2txjeY2Hwa2ZHLT27-2zvdoYTF3dc0SWOP0GyttCCFfQ7p7xE7qB_1DE3b0Akae35c01V20VybjPkXBcgu4bsT8_gkrbA1mv6uJ7s0b_fZmC4CS5HP3uW1rgDrQ_o05iJbCkkDqOCYsl6Zix5TYlQUbOB1QxHU5OZhFY9-M3PZJZtK4OMzEL1PECPzCxcEnDfYE7C3XbFD2vjq0RgIIj17912BmwsLCBSIcAoEHpBttPwvDh5HsTiw2TPQaUkJCXLk2ZT8Vx1bNaHSUAkU2qWJHa6iOzIplBMtqkxPf3s071Nl_mm3OWWbrZRt9TEctnMMZJcie0IvG44B8s33ND3JL429Nj1oNYIJHxjDeDme38B5LtmDKol_JleeHmP--Vab2UiRjR9Qe1B91Dunw0TMmWw=w441-h588-no)
  Tony Kihara
 
  -----------------------------------------------
@@ -30,13 +30,20 @@ To use the code of the website:
 ------------------------------------------------------------
 
 ## BDD
+|Behavior| Input|Output|
+|:--------|:-------|:-------|
+~~~
+|Load page|enter url|Landing page|
+~~~
+|| click on images|Informage about images appear|
+~~~
+|Enter name, email, message| Tony, tony@gmail.com, I need your service|Tony thank you for contacting us.we received your message|
+~~~
 
-The *what about us* icons when clicked should disappear and change to text and the vice versa is true.
-In the contact us part it should be able to capture the users name and thank him/her after inputting the message.
 -------------------------------------------------------------
 ## LIVE DEMO
 
-[Demo]("home/moringa/Documents/Delanistudioproject/index.html")
+[Demo](https://kihara-tony.github.io/Delanistudio/.)
 
 -------------------------------------------------
 
