@@ -95,3 +95,6 @@ h4{
   margin-top: 30px;
   text-align: center;
 }
+img:hover{
+  content: "This is a text";
+}
